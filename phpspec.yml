@@ -1,6 +1,6 @@
 suites:
     main:
-        namespace: Cerbero\:package_capital_name
+        namespace: Cerbero\Skeleton-Test
         src_path: tests
 extensions:
     - PhpSpec\Extension\CodeCoverageExtension
