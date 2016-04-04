@@ -81,18 +81,18 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-travis]: https://img.shields.io/travis/cerbero90/Skeleton-Test/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cerbero90/skeleton-test.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/cerbero90/skeleton-test.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/:styleci_repo/shield
+[ico-styleci]: https://styleci.io/repos/55344918/shield
 [ico-downloads]: https://img.shields.io/packagist/dt/cerbero/Skeleton-Test.svg?style=flat-square
 [ico-gratipay]: https://img.shields.io/gratipay/cerbero.svg?style=flat-square
-[ico-sensiolabs]: https://insight.sensiolabs.com/projects/:sensiolabs_project/big.png
+[ico-sensiolabs]: https://insight.sensiolabs.com/projects/8fcc7791-11a3-4064-a58a-698b03e37839/big.png
 
 [link-author]: https://twitter.com/cerbero90
 [link-packagist]: https://packagist.org/packages/cerbero/skeleton-test
 [link-travis]: https://travis-ci.org/cerbero90/skeleton-test
 [link-scrutinizer]: https://scrutinizer-ci.com/g/cerbero90/skeleton-test/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/cerbero90/skeleton-test
-[link-styleci]: https://styleci.io/repos/:styleci_repo
+[link-styleci]: https://styleci.io/repos/55344918
 [link-downloads]: https://packagist.org/packages/cerbero/skeleton-test
 [link-gratipay]: https://gratipay.com/cerbero
-[link-sensiolabs]: https://insight.sensiolabs.com/projects/:sensiolabs_project
+[link-sensiolabs]: https://insight.sensiolabs.com/projects/8fcc7791-11a3-4064-a58a-698b03e37839
 [link-contributors]: ../../contributors
