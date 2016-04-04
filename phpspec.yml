@@ -1,7 +1,8 @@
 suites:
     main:
-        namespace: Cerbero\Skeleton-Test
         src_path: tests
+        namespace: Cerbero\SkeletonTest
+        psr4_prefix: Cerbero\SkeletonTest
 extensions:
     - PhpSpec\Extension\CodeCoverageExtension
 code_coverage:

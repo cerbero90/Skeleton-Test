@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Cerbero\\Skeleton-Test\\": "src"
+            "Cerbero\\SkeletonTest\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Cerbero\\Skeleton-Test\\": "tests"
+            "Cerbero\\SkeletonTest\\": "tests"
         }
     },
     "scripts": {
