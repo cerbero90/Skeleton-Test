@@ -12,24 +12,6 @@
 
 [![SensioLabsInsight][ico-sensiolabs]][link-sensiolabs]
 
-**Note 1:** Enable the following services for the current package:
-
-- [Packagist](https://packagist.org/packages/submit)
-- [TravisCI](https://travis-ci.org/profile/cerbero90)
-- [ScrutinizerCI](https://scrutinizer-ci.com/g/new)
-- [StyleCI](https://styleci.io/account)
-- [SensioLabs Insight](https://insight.sensiolabs.com/projects/new)
-
-**Note 2:** Replace the following placeholders with their correct values in every concerned file:
-
-- ```skeleton-test```
-- ```Skeleton-Test```
-- ```Dummy package to test Skeleton```
-- ```:styleci_repo```
-- ```:sensiolabs_project```
-
-**Note 3:** Delete all the above notes, including this one.
-
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
 
