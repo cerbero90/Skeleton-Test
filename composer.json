@@ -1,12 +1,12 @@
 {
-    "name": "cerbero/:package_name",
+    "name": "cerbero/skeleton-test",
     "type": "library",
-    "description": ":package_description",
+    "description": "Dummy package to test Skeleton",
     "keywords": [
         "cerbero",
-        ":package_name"
+        "skeleton-test"
     ],
-    "homepage": "https://github.com/cerbero90/:package_capital_name",
+    "homepage": "https://github.com/cerbero90/Skeleton-Test",
     "license": "MIT",
     "authors": [
         {
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Cerbero\\:package_capital_name\\": "src"
+            "Cerbero\\SkeletonTest\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Cerbero\\:package_capital_name\\": "tests"
+            "Cerbero\\SkeletonTest\\": "tests"
         }
     },
     "scripts": {
