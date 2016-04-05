@@ -92,7 +92,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [link-author]: https://twitter.com/cerbero90
 [link-packagist]: https://packagist.org/packages/cerbero/skeleton-test
-[link-travis]: https://travis-ci.org/cerbero90/skeleton-test
+[link-travis]: https://travis-ci.org/cerbero90/Skeleton-Test
 [link-scrutinizer]: https://scrutinizer-ci.com/g/cerbero90/skeleton-test/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/cerbero90/skeleton-test
 [link-styleci]: https://styleci.io/repos/55344918
